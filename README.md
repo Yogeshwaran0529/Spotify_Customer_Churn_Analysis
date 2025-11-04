@@ -3,7 +3,7 @@
 ## 🧠 Project Overview
 
 In this project, we aim to perform customer churn analysis for Spotify users to identify the factors contributing to churn (users leaving the platform).
-Tools used for analysis include **Excel**, **Power BI**, and **SQL**.
+Tools used for analysis include **Excel**.
 
 The goal is to uncover insights into user behavior, churn patterns, and retention opportunities to help Spotify improve user engagement and reduce churn.
 
