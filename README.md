@@ -64,7 +64,7 @@ By identifying key drivers of churn such as **listening time**, **device type**,
 
 Below is the visual dashboard created in Excel:
 
-![Spotify Churn Dashboard](<upload your dashboard image or link here>)
+![Spotify Churn Dashboard](Spotify_churn_analysis_Dashboard.png)
 
 ---
 
